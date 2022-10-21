@@ -5,4 +5,4 @@ ESE 5190: Intro to Embedded Systems
 2. [`into the (void *)`](https://github.com/lihzhao14/ese5190-2022-lab2-into-the-void-star)
 
 #### Class wiki
-[`RP2040 setup guides`](https://github.com/ese-detkin-lab/ese5190-2022/blob/main/guides/RP2040-C-SDK-setup.md)
+[`RP2040 setup guides`](https://github.com/lihzhao14/ese5190_pico_setup_guide)
